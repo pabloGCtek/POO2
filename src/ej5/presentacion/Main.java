@@ -7,4 +7,5 @@ public class Main {
         Tabla t = new Tabla(4);
         t.mustraTabla();
     }
+
 }
